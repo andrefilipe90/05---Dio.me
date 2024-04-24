@@ -17,5 +17,3 @@ VOGAIS = "AEIOU"
 for letra in letras:
     if letra.upper() in VOGAIS:
         print (letra, end="")
-
-print()
