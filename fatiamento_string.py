@@ -12,8 +12,8 @@ nome = " André "
 sobrenome = " Mattos "
 
 mensagem = f'''
-{nome.center(20,"#")}
-{sobrenome.center(20,"#")}
+{nome.center(42,"#")}
+{sobrenome.center(42,"#")}
 '''
 
 print (mensagem)
